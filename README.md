@@ -8,7 +8,7 @@ Identificar conceptos esenciales de la materia de fundamentos de circuitos eléc
 
 1.2 Objetivos específicos
 
-* Analizar conceptos básicos de los temas analisis de ramas, lazos y nodos, así como, magnetismo y electromagnetismo, correspondientes al capítulo 9 y 10 del libro de Floyd, que nos adentren al mundo de los circuitos eléctricos.
+* Analizar conceptos básicos de los temas introducción a la corriente y al voltaje alternos, así como, capacitores, correspondientes al capítulo 11 y 12 del libro de Floyd, que nos adentren al mundo de los circuitos eléctricos.
 * Revisar distintas paginas web, para tener un mejor enfoque y conocimiento en base al tema a tratar.
 * Realizar un informe que contenga solo información importante, para ayudar al lector a comprender conceptos de los circuitos eléctricos
 
