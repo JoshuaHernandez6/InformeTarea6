@@ -14,6 +14,13 @@ Identificar conceptos esenciales de la materia de fundamentos de circuitos eléc
 
 # Marco teórico
 
+![Project Organizational Chart (2)](https://user-images.githubusercontent.com/105715717/178639129-b9e7563e-4e7b-4c4d-8889-5863c07c8aa5.jpg)
+
+![Project Organizational Chart (3)](https://user-images.githubusercontent.com/105715717/178639151-b7962305-b0e8-41b2-aa0e-96e41e7fb9e3.jpg)
+
+![Project Organizational Chart (4)](https://user-images.githubusercontent.com/105715717/178639165-af955125-e59b-40ed-9a7c-93ce59a31167.jpg)
+
+![Project Organizational Chart (5)](https://user-images.githubusercontent.com/105715717/178639185-a039ad9f-8f2f-41cc-8329-e77b88585d3e.jpg)
 
 
 # Explicación y resolución de ejercicios
